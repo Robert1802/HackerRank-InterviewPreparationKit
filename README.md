@@ -20,6 +20,8 @@ I will leave the link to each challenge and my code on this page.<br/>
 - Array Manipulation - [HackerRank](https://www.hackerrank.com/challenges/crush/problem) - [Solution](https://github.com/Robert1802/HackerRank-InterviewPreparationKit/blob/master/InterviewPreparationKit/Arrays/crush.cs)
 
 ## Dictionaries and Hashmaps
+- Hash Tables: Ransom Note - [HackerRank](https://www.hackerrank.com/challenges/ctci-ransom-note/problem) - [Solution](https://github.com/Robert1802/HackerRank-InterviewPreparationKit/blob/master/InterviewPreparationKit/DictionariesAndHashmaps/ctci-ransom-note.cs)
+
 ## Sorting
 ## String Manipulation
 ## Greedy Algorithms
