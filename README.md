@@ -15,6 +15,7 @@ I will leave the link to each challenge and my code on this page.<br/>
 ## Arrays
 - 2D Array - DS - [HackerRank](https://www.hackerrank.com/challenges/2d-array/problem) - [Solution](https://github.com/Robert1802/HackerRank-InterviewPreparationKit/blob/master/InterviewPreparationKit/Arrays/2d-array.cs)
 - Arrays: Left Rotation - [HackerRank](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem) - [Solution](https://github.com/Robert1802/HackerRank-InterviewPreparationKit/blob/master/InterviewPreparationKit/Arrays/ctci-array-left-rotation.cs)
+- New Year Chaos - [HackerRank](https://www.hackerrank.com/challenges/new-year-chaos/problem) - [Solution](https://github.com/Robert1802/HackerRank-InterviewPreparationKit/blob/master/InterviewPreparationKit/Arrays/new-year-chaos.cs)
 
 ## Dictionaries and Hashmaps
 ## Sorting
