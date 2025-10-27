@@ -26,6 +26,7 @@ I will leave the link to each challenge and my code on this page.<br/>
 ## Sorting
 ## String Manipulation
 - Strings: Making Anagrams - [HackerRank](https://www.hackerrank.com/challenges/ctci-making-anagrams/problem) - [Solution](https://github.com/Robert1802/HackerRank-InterviewPreparationKit/blob/master/InterviewPreparationKit/StringManipulation/ctci-making-anagrams.cs)
+- Alternating Characters - [HackerRank](https://www.hackerrank.com/challenges/alternating-characters/problem) - [Solution](https://github.com/Robert1802/HackerRank-InterviewPreparationKit/blob/master/InterviewPreparationKit/StringManipulation/alternating-characters.cs)
 
 ## Greedy Algorithms
 ## Search
