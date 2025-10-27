@@ -26,6 +26,7 @@ I will leave the link to each challenge and my code on this page.<br/>
 ## Sorting
 - Bubble Sort - [HackerRank](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem) - [Solution](https://github.com/Robert1802/HackerRank-InterviewPreparationKit/blob/master/InterviewPreparationKit/Sorting/ctci-bubble-sort.cs)
 - Mark and Toys - [HackerRank](https://www.hackerrank.com/challenges/mark-and-toys/problem) - [Solution](https://github.com/Robert1802/HackerRank-InterviewPreparationKit/blob/master/InterviewPreparationKit/Sorting/mark-and-toys.cs)
+- Comparator - [HackerRank](https://www.hackerrank.com/challenges/ctci-comparator-sorting/problem) - [Solution](https://github.com/Robert1802/HackerRank-InterviewPreparationKit/blob/master/InterviewPreparationKit/Sorting/ctci-comparator-sorting.cs)
 
 ## String Manipulation
 - Making Anagrams - [HackerRank](https://www.hackerrank.com/challenges/ctci-making-anagrams/problem) - [Solution](https://github.com/Robert1802/HackerRank-InterviewPreparationKit/blob/master/InterviewPreparationKit/StringManipulation/ctci-making-anagrams.cs)
