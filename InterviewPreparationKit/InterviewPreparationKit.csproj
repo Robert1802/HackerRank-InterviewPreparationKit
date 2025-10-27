@@ -14,7 +14,6 @@
     <Folder Include="LinkedLists\" />
     <Folder Include="Miscellaneous\" />
     <Folder Include="Trees\" />
-    <Folder Include="StringManipulation\" />
     <Folder Include="StacksAndQueues\" />
     <Folder Include="Sorting\" />
     <Folder Include="Search\" />
