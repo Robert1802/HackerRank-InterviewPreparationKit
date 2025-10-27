@@ -15,7 +15,6 @@
     <Folder Include="Miscellaneous\" />
     <Folder Include="Trees\" />
     <Folder Include="StacksAndQueues\" />
-    <Folder Include="Sorting\" />
     <Folder Include="Search\" />
     <Folder Include="RecursionAndBacktracking\" />
   </ItemGroup>

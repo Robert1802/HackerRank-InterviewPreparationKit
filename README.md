@@ -24,6 +24,8 @@ I will leave the link to each challenge and my code on this page.<br/>
 - Two String - [HackerRank](https://www.hackerrank.com/challenges/two-strings/problem) - [Solution](https://github.com/Robert1802/HackerRank-InterviewPreparationKit/blob/master/InterviewPreparationKit/DictionariesAndHashmaps/two-string.cs)
 
 ## Sorting
+- Sorting: Bubble Sort - [HackerRank](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem) - [Solution](https://github.com/Robert1802/HackerRank-InterviewPreparationKit/blob/master/InterviewPreparationKit/Sorting/ctci-bubble-sort.cs)
+
 ## String Manipulation
 - Strings: Making Anagrams - [HackerRank](https://www.hackerrank.com/challenges/ctci-making-anagrams/problem) - [Solution](https://github.com/Robert1802/HackerRank-InterviewPreparationKit/blob/master/InterviewPreparationKit/StringManipulation/ctci-making-anagrams.cs)
 - Alternating Characters - [HackerRank](https://www.hackerrank.com/challenges/alternating-characters/problem) - [Solution](https://github.com/Robert1802/HackerRank-InterviewPreparationKit/blob/master/InterviewPreparationKit/StringManipulation/alternating-characters.cs)
