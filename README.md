@@ -27,6 +27,7 @@ I will leave the link to each challenge and my code on this page.<br/>
 ## String Manipulation
 - Strings: Making Anagrams - [HackerRank](https://www.hackerrank.com/challenges/ctci-making-anagrams/problem) - [Solution](https://github.com/Robert1802/HackerRank-InterviewPreparationKit/blob/master/InterviewPreparationKit/StringManipulation/ctci-making-anagrams.cs)
 - Alternating Characters - [HackerRank](https://www.hackerrank.com/challenges/alternating-characters/problem) - [Solution](https://github.com/Robert1802/HackerRank-InterviewPreparationKit/blob/master/InterviewPreparationKit/StringManipulation/alternating-characters.cs)
+- Sherlock and the Valid String - [HackerRank](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem) - [Solution](https://github.com/Robert1802/HackerRank-InterviewPreparationKit/blob/master/InterviewPreparationKit/StringManipulation/sherlock-and-valid-string.cs)
 
 ## Greedy Algorithms
 ## Search
